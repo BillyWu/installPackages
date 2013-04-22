@@ -1,0 +1,73 @@
+10:36:25.406 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:36:25.546 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:37:25.421 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:37:25.437 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:38:25.437 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:38:25.437 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:39:25.453 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:39:25.453 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:40:25.453 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:40:25.453 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:41:25.437 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:41:25.437 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:42:25.453 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:42:25.453 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:43:25.437 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:43:25.453 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:44:25.453 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:44:25.453 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:45:25.453 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:45:25.453 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:46:25.468 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:46:25.468 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:47:25.453 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:47:25.453 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:48:25.468 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:48:25.468 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:49:25.453 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:49:25.468 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:50:25.468 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:50:25.468 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:51:25.484 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:51:25.484 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:52:25.484 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:52:25.484 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:53:25.468 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:53:25.468 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:54:25.484 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:54:25.484 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:55:25.468 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:55:25.468 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:56:25.468 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:56:25.484 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:57:25.484 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:57:25.484 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:58:25.484 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:58:25.484 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+10:59:25.484 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+10:59:25.484 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:00:25.500 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+11:00:25.500 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:01:25.500 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+11:01:25.500 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:02:26.156 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+11:02:26.171 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:03:31.343 S接收：<F id='-1' len='0' cmd='TransFile.beat' /><F id='-1' len='0' cmd='TransFile.beat' />
+11:03:31.343 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/><F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:04:33.015 S接收：<F id='-1' len='0' cmd='TransFile.beat' /><F id='-1' len='0' cmd='TransFile.beat' />
+11:04:33.031 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/><F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:05:39.953 S接收：<F id='-1' len='0' cmd='TransFile.beat' /><F id='-1' len='0' cmd='TransFile.beat' />
+11:05:39.968 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/><F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:06:40.109 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+11:06:40.109 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:06:40.125 S接收：<F id='-1' len='0' cmd='TransFile.beat' />
+11:06:40.125 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:07:40.125 S接收：<F id='-1' len='0' cmd='TransFile.beat' /><F id='-1' len='0' cmd='TransFile.beat' />
+11:07:40.140 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/><F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:08:40.140 S接收：<F id='-1' len='0' cmd='TransFile.beat' /><F id='-1' len='0' cmd='TransFile.beat' />
+11:08:40.140 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/><F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:09:40.171 S接收：<F id='-1' len='0' cmd='TransFile.beat' /><F id='-1' len='0' cmd='TransFile.beat' />
+11:09:40.171 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/><F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:10:40.203 S接收：<F id='-1' len='0' cmd='TransFile.beat' /><F id='-1' len='0' cmd='TransFile.beat' />
+11:10:40.203 S发送：<F id='-1' len='0' cmd='TransFile.beat' success='true'/><F id='-1' len='0' cmd='TransFile.beat' success='true'/>
+11:10:45.140 启动定时执行
