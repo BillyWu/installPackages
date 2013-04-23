@@ -1,0 +1,28 @@
+﻿正在安装程序集“E:\GranityApp\installPackages\winWatchSrv\Debug\winWatchSrv.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\GranityApp\installPackages\winWatchSrv\Debug\winWatchSrv.exe
+   logfile = E:\GranityApp\installPackages\winWatchSrv\Debug\winWatchSrv.InstallLog
+正在日志 GranityWatch 中创建 EventLog 源 GranityWatch...
+正在安装服务 Granity服务守护...
+已成功安装服务 Granity服务守护。
+正在日志 Application 中创建 EventLog 源 Granity服务守护...
+正在提交程序集“E:\GranityApp\installPackages\winWatchSrv\Debug\winWatchSrv.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\GranityApp\installPackages\winWatchSrv\Debug\winWatchSrv.exe
+   logfile = E:\GranityApp\installPackages\winWatchSrv\Debug\winWatchSrv.InstallLog
+正在安装程序集“E:\Granity\installPackages\winWatchSrv\Debug\winWatchSrv.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\Granity\installPackages\winWatchSrv\Debug\winWatchSrv.exe
+   logfile = E:\Granity\installPackages\winWatchSrv\Debug\winWatchSrv.InstallLog
+正在日志 GranityWatch 中创建 EventLog 源 GranityWatch...
+正在安装服务 Granity服务守护...
+已成功安装服务 Granity服务守护。
+正在日志 Application 中创建 EventLog 源 Granity服务守护...
+正在提交程序集“E:\Granity\installPackages\winWatchSrv\Debug\winWatchSrv.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\Granity\installPackages\winWatchSrv\Debug\winWatchSrv.exe
+   logfile = E:\Granity\installPackages\winWatchSrv\Debug\winWatchSrv.InstallLog
